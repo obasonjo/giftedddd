@@ -6,7 +6,7 @@ import dash from '../Images/Dashboard .png'
 import run from '../Images/Running.png'
 import lead from '../Images/Group 33.png'
 import rat from '../Images/RGB Color.png'
-import cou from '../Images/Graduation.png'
+import co from '../Images/Graduation.png'
 import tot from '../Images/Bank Cards .png'
 import cola from '../Images/Collaboration Female.png'
 import earn from '../Images/Order History.png'
@@ -37,7 +37,7 @@ const Asidebar = () => {
             <h3>Spin To Win</h3>
           </div>
           <div className='course'>
-            <img src= {cou} alt="" />
+            <img src= {co} alt="" />
             <h3>Courses</h3>
           </div>
           <div className='pay'>
